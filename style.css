@@ -2,3 +2,7 @@
     background-color:aqua;
     min-height: 150px;
 }
+
+.bg-light {
+    background-color:#d5e5f0 !important;
+}
